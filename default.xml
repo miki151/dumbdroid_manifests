@@ -58,7 +58,7 @@
     <linkfile src="README" dest="external/chromium-webview/README"/>
   </project>
   <project name="LineageOS/android_external_chromium-webview_prebuilt_arm" path="external/chromium-webview/prebuilt/arm" revision="6f94e76a960ac19563b2bf5898c5dc2fc0e16c40" upstream="main" dest-branch="main" groups="pdk"/>
-  <project name="LineageOS/android_external_chromium-webview_prebuilt_arm64" path="external/chromium-webview/prebuilt/arm64" revision="70d1609c90346cf4d1daeb37909e7854f6556af6" upstream="main" dest-branch="main" groups="pdk"/>
+  <project name="miki151/dumbdroid_webview" path="external/chromium-webview/prebuilt/arm64" revision="master" upstream="master" dest-branch="master" groups="pdk"/>
   <project name="LineageOS/android_external_chromium-webview_prebuilt_x86" path="external/chromium-webview/prebuilt/x86" revision="84c74ff7aedaf4fc5ecae8d693214f5311eba642" upstream="main" dest-branch="main" groups="pdk"/>
   <project name="LineageOS/android_external_chromium-webview_prebuilt_x86_64" path="external/chromium-webview/prebuilt/x86_64" revision="69244c67f5fb359a1ed8db27e9ee55a31d03a480" upstream="main" dest-branch="main" groups="pdk"/>
   <project name="LineageOS/android_external_conscrypt" path="external/conscrypt" revision="f5941499ae8b1aefc5f89627f522b166fecf4bde" upstream="refs/heads/lineage-21.0" dest-branch="refs/heads/lineage-21.0" groups="pdk"/>
